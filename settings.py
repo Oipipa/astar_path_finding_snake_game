@@ -12,6 +12,6 @@ red = (255, 0, 0)
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption('Snake Game AI')
 
-# FPS (frames per second) controller
+# FPS controller
 clock = pygame.time.Clock()
 speed = 10
